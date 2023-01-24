@@ -1,0 +1,7 @@
+Baca Dulu Penting
+
+Email : ahmaddzulbihar69@gmail.com
+Password : ahmaddzulbihar69
+
+Pembuatan Program Aplikasi ini menggunakan bahasa pemrograman PHP
+dengan framework Laravel, dengan tamplate adminLTE.
